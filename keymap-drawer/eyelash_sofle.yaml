@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
   '0':
-  - {t: '`', h: '$$mdi:keyboard-esc$$', s: '~'}
+  - {t: '`', s: '~'}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
@@ -328,3 +328,5 @@ layers:
 combos:
 - p: [59, 60]
   k: {t: '$$mdi:keyboard-return$$', type: enter}
+- p: [0, 13]
+  k: $$mdi:keyboard-esc$$

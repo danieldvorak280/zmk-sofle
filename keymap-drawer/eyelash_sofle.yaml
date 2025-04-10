@@ -301,7 +301,7 @@ layers:
   - '{'
   - '}'
   - RGB TOG
-  - RGB ON
+  - RGB COLOR HSB(226,91,42)
   - RGB EFR
   - RGB EFF
   - RGB SPD
